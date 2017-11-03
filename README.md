@@ -1,6 +1,6 @@
 ### Semantic Segmentation
 
-Example Output for Skeletal Detection using (Real Time Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050):
+Example Output for Skeletal Detection using [Real Time Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050):
 ![Skating](https://github.com/deshanadesai/semantic-segmentation/blob/master/python/we_did_it.png)
 
 
